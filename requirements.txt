@@ -16,7 +16,6 @@ click==8.1.7
 colorama==0.4.6
 comm==0.2.2
 contourpy==1.3.0
--e git+https://github.com/ayushbhavsar21/Credit_Card.git@adb895a47bb7313c07803f429a584817382725a3#egg=credit_defult
 cycler==0.12.1
 debugpy==1.8.6
 decorator==5.1.1
