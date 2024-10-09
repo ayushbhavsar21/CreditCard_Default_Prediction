@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: flask-app
-    env: python
-    buildCommand: ""                # Optional build step
-    startCommand: python run.py      # Start your app with Waitress
-    plan: free
